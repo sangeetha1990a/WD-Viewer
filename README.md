@@ -1,4 +1,3 @@
-# ![Alt text](images/logo2_w60.png) Whats Data Viewer
-<p align="center"><img src="images/logo2_w60.png" /></p>
+<p align="left"><img src="images/logo2_w60.png" /><h1>Whats Data Viewer</h1></p>
 
 
