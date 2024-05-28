@@ -1,3 +1,3 @@
-# WD-Viewer
+# ![Alt text](images/logo2_w60.png) Whats Data Viewer
 
-![Alt text](images/logo2_w60.png)
+
